@@ -21,5 +21,5 @@ defaults write -g NSAutomaticQuoteSubstitutionEnabled -bool false
 defaults write -g NSAutomaticDashSubstitutionEnabled -bool false
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool false
 
-# Make configurations works
+# Apply configurations without rebooting
 for app in Finder Dock Mail SystemUIServer; do killall "$app" >/dev/null 2>&1; done
