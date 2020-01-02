@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Unfortunately I've lost the link to the source, if you're aware where it is, please share with me, so I can reference to it
 # Enable the guest account based on OS version.
 #
 # Based on: https://github.com/nbalonso/Some_scripts/blob/master/Pushing%20Guest%20account/postflight.sh
