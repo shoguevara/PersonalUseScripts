@@ -1,5 +1,6 @@
 #!/bin/bash
-#Unfortunately I've lost the link to the source, if you're aware where it is, please share with me, so I can reference to it
+# Unfortunately I've lost the link to the source, if you're aware where it is, please share with me, so I can reference to it
+# Might be from here https://github.com/TMTBO/macconfig/blob/b05f37a7e40cf3ecf1cbd61399812b57c19c671a/install-steps/guest_account.sh
 # Enable the guest account based on OS version.
 #
 # Based on: https://github.com/nbalonso/Some_scripts/blob/master/Pushing%20Guest%20account/postflight.sh
